@@ -1,2 +1,2 @@
-# seb_notas
+# Escola notas
 Calculador de notas com Python
