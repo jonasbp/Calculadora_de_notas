@@ -21,7 +21,7 @@ mqtt:
   port: 1883  
   client_id: home-assistant-1  
   username: JonasHome1  
-  password: jo10155h
+  password: 
   keepalive: 60
 
 switch 1:
